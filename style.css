@@ -1,0 +1,114 @@
+.lodo{
+    height: 575px;
+    width: 540px;
+    margin: 50px auto;  
+}
+.box1, .last{
+    display: flex;
+}
+.green, .yellow, .red, .blue{
+    /* border:  2px solid black; */
+    height: 200px;
+    width: 200px;
+}
+.mid{
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 130px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.row1{
+    border: 2px solid black;
+    height: 130px;
+    width: 130px;
+    margin: 30px auto;
+    background-color: white;
+}
+.one{
+    display: flex;
+}
+.box, .box2, .box3, .box4{
+    border: 2px solid black;
+    height: 30px;
+    width: 30px;
+    border-radius: 25px;
+    margin:13px auto;
+}
+.box{
+    background-color: green;
+}
+.box2{
+    background-color: yellow;
+}
+
+
+.two{
+    border: 1px solid black;
+    height: 36px;
+    width: 41px;
+}
+.yl{
+    background-color: yellow;
+}
+
+.between{
+    /* border: 1px solid black; */
+    height: 110px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.box3{
+    background-color: red;
+}
+.box4{
+    background-color: blue;
+}
+.re{
+    background-color: red;
+}           
+.three{
+    border: 1px solid black;
+    width: 39px;
+    height: 36px;
+}
+.four{
+    width: 41px;
+    height: 38px;
+}
+.gr{
+    background-color: green;
+}
+.bl{
+    background-color: blue;
+}
+.icon{
+    font-size: 32px;
+    color: green;
+}
+.icon1{
+    color: red;
+}
+.icon2{
+    color: rgb(255, 225, 0);
+}
+.icon3{
+    color: blue;
+}
+i{
+    margin:0 7px;
+}
